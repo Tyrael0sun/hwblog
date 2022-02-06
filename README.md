@@ -1,5 +1,5 @@
-**<p align="center">[Thomas' Blog](https://blog.thomaslv.top)</p>**
-**<p align="center">~生命不息，学习不止，兴趣是最好的老师~</p>**
+**<p align="center">[Tyrael0sun' Blog](https://Tyrael0Sun.github.io)</p>**
+**<p align="center">生命不息，学习不止，兴趣是最好的老师~</p>**
 
 ## 联系方式
 - Telegram：[@Tyrael0Sun](https://t.me/Tyrael0Sun)
