@@ -38,5 +38,3 @@ RTL8125B是很多低价新主板2.5G网口的标配。在6.7上有专门的驱�
 需要注意的是在硬件---》高级设计中的VMkernel.boot.disableACScheck设定值要由原来的false改为true
 <img width="758" alt="ACS setting" src="https://user-images.githubusercontent.com/32221824/155163354-72946ad6-db4f-4a79-923f-0f18b3be0c6b.png">
 这样就是你在ESXI上用上RTL8125B就需要先用另外一张内置/外置网卡，完成ESXI的安装，配置。
-
-
