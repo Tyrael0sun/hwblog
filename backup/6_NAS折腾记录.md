@@ -9,7 +9,7 @@ PVE上AMD的直通主要是增加IOMMU参数，使用ACS功能让IOMMU重新分�
 nano /etc/default/grub
 将GRUB_CMDLINE_LINUX_DEFAULT="quiet"修改为 GRUB_CMDLINE_LINUX_DEFAULT="quiet amd_iommu=on pcie_acs_override=downstream,multifunction video=vesafb:off video=efifb:off"
 update-grub
-nano etc/modules
+nano /etc/modules
 
 增加如下参数
 vfio
